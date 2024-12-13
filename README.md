@@ -10,5 +10,5 @@ Investigating the possible formation of echo chambers in deterministic and stoch
 Extending previous model by implementing deterministic and stochastic networks to it. A different kind of hatch function is to be used.
 
 ### Software: 
-NetLogo – Programming, Simulations
-R – Result Analysis
+- NetLogo – Programming, Simulations
+- R – Result Analysis
